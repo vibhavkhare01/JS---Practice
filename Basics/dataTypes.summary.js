@@ -25,6 +25,7 @@ const bigNumber = 544847874847864684n
 
 // Array, Object, Function
 
+// practice
 
 const heros = ["shaktiman", "nagraj", "dogesh"];
 let myObj = {

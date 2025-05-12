@@ -40,3 +40,30 @@ const myFunction = function(){
 }
 
 console.log(typeof bigNumber);
+
+
+
+
+
+//   Stack (Primitive)
+
+let MyDishName = "Someting"
+
+
+let anothername  = MyDishName
+anothername = "New Reciepe"
+
+
+console.log(MyDishName);
+console.log(anothername);
+
+let userOne = {
+    Email : "user@gmail.com",
+    upi : "use@abl"
+
+}
+
+let userTwo = userOne 
+
+userTwo.Email = "userQ@gmail.com"
+

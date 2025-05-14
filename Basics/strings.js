@@ -34,3 +34,15 @@ console.log(url.replace('%20','_'))
 console.log(url.includes('god'))
 
 console.log(gameName.split('_'));
+
+
+1.
+
+
+
+
+
+2.
+
+
+
